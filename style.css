@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background: #d6e1f0;
+    width: 100%;
+    height: 100vh;
+}
+
+.image-qr-code{
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    margin:auto ;
+}
+
+.container{
+    background: white;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    text-align: center;
+}
